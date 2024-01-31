@@ -30,6 +30,7 @@ git clone https://github.com/hlibine/libft.git
 Compilation & cleanup:
 
 - `make` : Compiles the library and creates the archive.
+- `make bonus` : Compiles the library + bonus funcitons and creates the archive.
 - `make clean` : Cleans up all object files (.o).
 - `make fclean` : Cleans up the object files and the libft.a library archive.
 - `make re` : Does a make fclean followed by a make to recompile the library.
