@@ -1,5 +1,5 @@
 # libft
-
+![](https://img.shields.io/badge/125%2F100-brightgreen)
 ## Description
 
 libft is a project at 42 that involves creating a custom C library compiling a variety of standard and extra functions that can be reused in future projects. This library aims to mimic a subset of the C Standard Library functions, along with additional utility functions.
