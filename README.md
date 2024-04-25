@@ -18,13 +18,13 @@ The bonus part of libft includes aditional functions that deal with basic operat
 ![](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white)
 ![](	https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-![](https://img.shields.io/github/languages/code-size/hlibine/libft?color=<COLOR>)
+![](https://img.shields.io/github/languages/code-size/moop250/libft?color=<COLOR>)
 
 ## Usage 
 
 To clone the repository use:
 ```bash
-git clone https://github.com/hlibine/libft.git
+git clone https://github.com/moop250/libft.git
 ```
 
 Compilation & cleanup:
